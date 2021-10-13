@@ -16,7 +16,7 @@ Then, the experiments in the paper can be replicated by running:
     ./diag-bias/run-bias.sh  # generates the results for BIAS given in Table 4
 ```
 
-Note that in order to run the ADNI experiments, you need access to the [Alzheimer's Disease Neuroimaging Initiative (ADNI)](http://adni.loni.usc.edu/) dataset.
+Note that, in order to run the experiments for ADNI, you need to get access to the [Alzheimer's Disease Neuroimaging Initiative (ADNI)](http://adni.loni.usc.edu/) dataset.
 
 ### Citing
 If you use this software please cite as follows:
